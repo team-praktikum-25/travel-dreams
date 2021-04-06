@@ -1,0 +1,8 @@
+* text eol=lf
+
+# images
+*.jpeg binary
+
+# fonts
+*.woff binary
+*.woff2 binary
