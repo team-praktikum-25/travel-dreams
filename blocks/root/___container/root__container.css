@@ -1,0 +1,4 @@
+.root__container {
+  margin: 0 auto;
+  width: calc(100% - 155px);
+}
