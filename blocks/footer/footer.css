@@ -1,1 +1,25 @@
-/* Footer */
+.footer {
+  background-color: #FECDA7;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 325px 0 335px;
+}
+
+@media screen and (max-width: 1024px) {
+  .footer {
+    padding: 275px 0 285px;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .footer {
+    padding: 225px 0 235px;
+  }
+}
+
+@media screen and (max-width: 425px) {
+  .footer {
+    padding: 175px 0 185px;
+  }
+}
