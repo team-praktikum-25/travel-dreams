@@ -1,0 +1,18 @@
+.places__paragraphs {
+  align-self: end;
+  max-width: 365px;
+  padding: 60px 70px;
+}
+
+@media screen and (max-width: 1024px) {
+  .places__paragraphs {
+    padding: 30px 30px;
+    font-size: 25px;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .places__paragraphs {
+    padding: 30px;
+  }
+}
