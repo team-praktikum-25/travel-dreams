@@ -9,14 +9,6 @@
 @import url(../blocks/header/__item/header__item.css);
 @import url(../blocks/header/__link/header__link.css);
 
-
-
-
-
-
-
-
-
 @import url(../blocks/people/people.css);
 @import url(../blocks/people/__tag/people__tag.css);
 @import url(../blocks/people/__title/people__title.css);
@@ -25,3 +17,11 @@
 @import url(../blocks/people/__blockquote/people__blockquote.css);
 @import url(../blocks/people/__cite/people__cite.css);
 @import url(../blocks/people/__text/people__text.css);
+
+@import url(../blocks/places/places.css);
+@import url(../blocks/places/__list/places__list.css);
+@import url(../blocks/places/__list-item/places__list-item.css);
+@import url(../blocks/places/__image/places__image.css);
+@import url(../blocks/places/__title/places__title.css);
+@import url(../blocks/places/__paragraphs/places__paragraphs.css);
+@import url(../blocks/places/__paragraph/places__paragraph.css);
