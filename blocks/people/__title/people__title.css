@@ -1,0 +1,8 @@
+.people__title {
+  margin: 30px 0 120px;
+
+  max-width: 400px;
+  font-weight: 900;
+  font-size: 30px;
+  line-height: 1.4;
+}
