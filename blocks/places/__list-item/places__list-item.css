@@ -1,0 +1,30 @@
+.places__list-item {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-template-areas:
+    'image title'
+    'image paragraphs';
+}
+
+.places__list-item:nth-child(2n){
+  grid-template-areas:
+    'title image'
+    'paragraphs image';
+}
+
+@media screen and (max-width: 768px) {
+  .places__list-item {
+    grid-template-columns: 1fr;
+    grid-template-areas:
+      'title'
+      'image'
+      'paragraphs';
+  }
+
+  .places__list-item:nth-child(2n){
+    grid-template-areas:
+        'title'
+        'image'
+        'paragraphs';
+    }
+}
