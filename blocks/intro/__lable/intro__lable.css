@@ -1,0 +1,9 @@
+.intro__lable {
+  font-size: 14px;
+  font-weight: 700;
+  text-transform: uppercase;
+  color: #FECDA7;
+  word-spacing: 0.25rem;
+  margin: 0 0 34px;
+  max-width: 150px;
+}
