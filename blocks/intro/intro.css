@@ -1,0 +1,14 @@
+.intro {
+  padding: 98px 0 132px;
+  display: grid;
+  /* grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); */
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 40px 80px;
+}
+
+@media screen and (max-width: 768px) {
+  .intro {
+    gap: 20px 40px;
+  }
+
+}
