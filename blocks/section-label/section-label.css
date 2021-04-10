@@ -1,0 +1,8 @@
+.section-label {
+  max-width: 150px;
+  font-size: 10px;
+  font-weight: 700;
+  text-transform: uppercase;
+  color: #fecda7;
+  word-spacing: 0.25rem;
+}
